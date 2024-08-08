@@ -28,30 +28,30 @@ The project is divided into five main scripts:
 
 1. Clone the repository:
     
-bash
+```
     git clone https://github.com/Parth-nXp/ARFF-KLMS.git
     cd ARFF-KLMS
-
+```
 
 2. Create a virtual environment and activate it:
     
-bash
+```
     python -m venv rff-klms-env
     source rff-klms-env/bin/activate  # On Windows use rff-klms-env\Scripts\activate
-
+```
 
 3. Install the required packages:
     
-bash
+```
     pip install -r requirements.txt
-
+```
 
 ## Usage
 
 Run the main script to start the experiment:
-bash
+```
 python main.py
-
+```
 
 ## Troubleshooting
 
@@ -71,11 +71,11 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 
 1. Fork the repository.
 
-2. Create a new branch (git checkout -b feature-branch).
+2. Create a new branch (`git checkout -b feature-branch`).
 
-3. Make your changes and commit them (git commit -m 'Add some feature').
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 
-4. Push to the branch (git push origin feature-branch).
+4. Push to the branch (`git push origin feature-branch`).
 
 5. Open a pull request.
 
