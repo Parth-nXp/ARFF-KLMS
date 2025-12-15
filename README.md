@@ -53,6 +53,25 @@ Run the main script to start the experiment:
 python main.py
 ```
 
+## Citation
+
+If you use this code or build upon this work in your research, please cite the following paper:
+
+### BibTeX
+```bibtex
+@INPROCEEDINGS{10974899,
+  author    = {Sharma, Parth and Pradhan, Pyari Mohan},
+  booktitle = {2024 34th International Conference on Computer Theory and Applications (ICCTA)},
+  title     = {BrainDiffU-Net: A Distributed Diffusion-Based U-Net for Brain Tumor Segmentation},
+  year      = {2024},
+  pages     = {226--231},
+  doi       = {10.1109/ICCTA64612.2024.10974899}
+}
+```
+### IEEE Style
+
+P. Sharma and P. M. Pradhan, “BrainDiffU-Net: A Distributed Diffusion-Based U-Net for Brain Tumor Segmentation,” _Proceedings of the 34th International Conference on Computer Theory and Applications (ICCTA)_, Alexandria, Egypt, 2024, pp. 226–231.
+
 ## Troubleshooting
 
 If you encounter any issues or errors while running the project, please check the following:
